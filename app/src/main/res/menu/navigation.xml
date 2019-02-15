@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_sensors"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/sensors_values" />
+
+    <item
+        android:id="@+id/navigation_configuration"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/configuration" />
+</menu>
